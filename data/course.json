@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2011",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Human-Computer Interfaces"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ],
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Graphic Design"
+    ]
+  ],
+  "legacy_uid": "7f0f0a87-afc5-4571-2287-a8d1e794e014",
+  "instructors": {
+    "content": [
+      "15d1367e-048a-c7ec-bca7-663806f9679a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "17b80701-d15e-bd7c-0beb-a0ee202abb94",
+    "website": "6-831-user-interface-design-and-implementation-spring-2011"
+  },
+  "course_title": "User Interface Design and Implementation",
+  "hide_download": true,
+  "course_description": "6.831/6.813 examines human-computer interaction in the context of graphical user interfaces. The course covers human capabilities, design principles, prototyping techniques, evaluation techniques, and the implementation of graphical user interfaces. Deliverables include short programming assignments and a semester-long group project. Students taking the graduate version also have readings from current literature and additional assignments.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "6.813",
+  "primary_course_number": "6.831",
+  "course_image_thumbnail": {
+    "content": "f6577e5c-5976-5144-8edc-7fc6b1f08e08",
+    "website": "6-831-user-interface-design-and-implementation-spring-2011"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects"
+  ],
+  "site_uid": "bade7ccd-7b68-479f-89e8-18b7a74a9ce1",
+  "site_short_id": "6.831-spring-2011",
+  "site_url_path": "courses/6-831-user-interface-design-and-implementation-spring-2011",
+  "title": "Course Metadata"
+}
